@@ -32,4 +32,4 @@ public class BubbleSort {
 
         sc.close();
     }
-} 
+}
